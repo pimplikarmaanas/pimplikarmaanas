@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/13MO7LUAShwAAAAd/fadding-cat.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Maanas Pimplikar</h1>
 <h3 align="center">I am a passionate developer working in Seattle!</h3>
 
