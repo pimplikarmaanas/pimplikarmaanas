@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio is available at [https://pimplikarmaanas.github.io](https://pimplikarmaanas.github.io)
 
-- 💬 Ask me about **Video games, One Piece, and Sports**
+- 💬 Ask me about **back-end development!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
